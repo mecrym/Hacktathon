@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "nome": "casa_media"
+  },
+  "lote": {
+    "largura": 40,
+    "comprimento": 10,
+    "restricoes": {
+      "recuos": {
+        "frontal": 3,
+        "laterais": 2,
+        "fundos": 3
+      }
+    }
+  },
+  "projeto": {
+    "comodos": [
+      { "tipo": "quarto", "quantidade": 2 },
+      { "tipo": "banheiro", "quantidade": 2 },
+      { "tipo": "sala", "quantidade": 1 },
+      { "tipo": "cozinha", "quantidade": 1 },
+      { "tipo": "garagem", "quantidade": 1 }
+    ]
+  },
+  "descricao_usuario": ""
+}
